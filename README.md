@@ -1,11 +1,6 @@
-
-- 👋 Hi, I’m @Shadow2ube
-- 👀 I’m interested in yes
-- 🌱 I’m currently learning back scratching
-- 💞️ I’m looking to collaborate on a search engine
-- 📫 You can reach me at nowhere, because I am no one. If you had valid reason to find me, I already contacted you elsewhere.
-
-<!---
-Shadow2ube/Shadow2ube is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I do programming, I guess.<br>
+- I know my way around Java enough to say I'm "*good*"
+- Python is sneki
+- I'm learning C++ because it's cool
+- Minecraft is fun and you know it. I sometimes make plugins for it
+- play.unmined.ca is the java server
