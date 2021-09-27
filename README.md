@@ -1,6 +1,6 @@
-- I do programming, I guess.<br>
+- I do programming, I guess.
 - I know my way around Java enough to say I'm "*good*"
-- Python is sneki
-- I'm learning C++ because it's cool
+- I know C++ well, as well as C
+- I know Python enough
 - Minecraft is fun and you know it. I sometimes make plugins for it
 - play.unmined.ca is the java server
